@@ -963,7 +963,8 @@ footer {
     width: 50%;
   }
   form {
-    width: 66%;
+    width: 100%;
+    padding: 2rem;
   }
 
   footer {
@@ -987,7 +988,6 @@ footer {
     justify-content: center;
     gap: 1.5rem;
   }
-
 
   .footerLogo {
     width: 306px;
